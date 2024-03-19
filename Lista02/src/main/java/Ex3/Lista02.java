@@ -17,7 +17,7 @@ public class Lista02 {
         
         double hipotenusa = Math.sqrt(Math.pow(cateto01, 2) + Math.pow(cateto02, 2));
         
-        System.out.println("O VALOR DA HIPOTENUSA É:" );
+        System.out.println("O VALOR DA HIPOTENUSA É:" hipotenusa);
     }
         
 }
